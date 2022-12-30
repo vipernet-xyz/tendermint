@@ -1,4 +1,4 @@
-module github.com/vishruthsk/tendermint
+module github.com/vipernet-xyz/tendermint
 
 go 1.13
 
